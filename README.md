@@ -27,10 +27,7 @@
 
 3. **Output**: The result, which is the person's age, is displayed to the user on the web page. It is presented in years, months, and days .</p>
 
-          <h2> Languages Used </h2>
-        <p>An interactive age calculator using HTML, CSS, and JavaScript.</p>
-    </header>
-    <div class="container">
+   <
         <h2>About</h2>
         <p>This project is a simple web-based age calculator that allows you to calculate your age based on your birthdate. It's built using HTML for structure, CSS for styling, and JavaScript for functionality.</p>
            <h2>License</h2>
