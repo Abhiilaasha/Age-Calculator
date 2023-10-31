@@ -7,7 +7,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Age Calculator README</title>
+   
 </head>
 <body>
     <h1>Age Calculator</h1>
