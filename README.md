@@ -20,7 +20,7 @@
         <p>This project is licensed under the MIT License. See the <code>LICENSE</code> file for details.</p>
     <header>
         <h1>Age Calculator</h1>
-          <h2>License</h2>
+          <h2> Languages Used </h2>
         <p>An interactive age calculator using HTML, CSS, and JavaScript.</p>
     </header>
     <div class="container">
