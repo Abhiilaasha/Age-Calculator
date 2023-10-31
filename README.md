@@ -8,12 +8,6 @@
 <html>
 <head>
     <title>Age Calculator README</title>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f3f3f3;
-            margin: 0;
-            padding: 0;
-        }
 </head>
 <body>
       <h2>License</h2>
